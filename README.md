@@ -7,5 +7,6 @@ A new Flutter project. I am testing the app right now. The app is made with Flut
 This project is a starting point for a Flutter application.
 
 ### The App is a Pet App
+- Pet store locations and Veterinarian list plan and more details to be added.
 
 
