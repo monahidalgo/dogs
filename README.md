@@ -1,4 +1,4 @@
-# A Dog App 
+# Yer' Pet App 
 
 A new Flutter project. I am testing the app right now. The app is made with Flutter and Dart. I will be adding more to the app.
 
